@@ -87,7 +87,7 @@ devbox shell  # activates the shell
 #### Weather & climate RSEs - discussion
 
 - Participants made notes during the session: [hackmd.io/W9YAQowdSSqJ2RELJEd5tw](https://hackmd.io/W9YAQowdSSqJ2RELJEd5tw)
-- Join the new channel `#weather-climate` in [ukrse.slack.com](https://ukrse.slack.com/)
+- Join the new channel `#geoscience` in [ukrse.slack.com](https://ukrse.slack.com/)
 - Subscribe to the mailing list using the google form here: [tinyurl.com/49x7c4fc](https://tinyurl.com/49x7c4fc)
 - Join the Special Interest Group using the same form
 
